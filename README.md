@@ -1,5 +1,5 @@
 # Guess
-Mini guessing game using JavaScript
+Mini guessing game using JavaScript (Front End Dev)
 
 
 # Screenshots
