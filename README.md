@@ -1,5 +1,6 @@
 # Guess
-Mini game using JavaScript  
+Mini guessing game using JavaScript
+
 
 # Screenshots
 ![image](https://user-images.githubusercontent.com/78321649/141336877-32299a99-900e-44aa-9cd3-1fefa074e8ec.png)
